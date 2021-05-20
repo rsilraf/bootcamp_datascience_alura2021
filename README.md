@@ -1,2 +1,2 @@
-# bootcamp_datascience_alura2021
-Atividade do bootcamp de Data Science Alura 2021
+
+Atividades do bootcamp de Data Science Alura 2021
